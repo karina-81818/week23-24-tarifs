@@ -1,0 +1,64 @@
+.tarif-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 220px; 
+}
+.tarif-name{
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    border: 1px solid white;
+    background-color:green
+}
+.tarif-price{
+    color: white;
+    font-size: 50px;
+    padding: 20px;
+    border: 1px solid white;
+    background-color: pink;
+}
+.fix{
+    font-size: 15px;
+}
+.tarif-speed{
+background-color: #f8f8f8;
+color:gray;
+padding: 15px;
+border: 1px solid white;
+}
+.tarif-text{
+    background-color: #eeeeee;
+    color: gray;
+    padding: 20px;
+    border: 1px solid white;
+    hyphens: auto;
+    font-size: 14px;
+}
+.blueClass{
+    background-color:#3da1ac;
+}
+.blueLite{
+    background-color:#2cc1d5;
+}
+.greenClass{
+    background-color: #1f8972;
+}
+.greenLite{
+    background-color:#24ae8d;
+}
+.redClass{
+    background-color: #c4554e;
+}
+.redLite{
+    background-color: #f46a5f;
+}
+.blackClass{
+    background-color: #282f37;
+}
+.blackLite{
+    background-color: #333a44;
+}
+.active{
+    transform: scale(1.08);
+}

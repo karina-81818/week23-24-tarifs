@@ -1,0 +1,38 @@
+[
+{
+"id":1,
+"name":"Безлимитный 300",
+"price": 300,
+"speed":"до 10 мбит/сек",
+"text":"Объем включенного трафика не ограничен",
+"color":"blueClass",
+"colorLite":"blueLite"  
+},
+{
+"id":2,
+"name":"Безлимитный 450",
+"price": 450,
+"speed":"до 50 мбит/сек",
+"text":"Объем включенного трафика не ограничен",
+"color":"greenClass",
+"colorLite":"greenLite"
+},
+{
+"id":3,
+"name":"Безлимитный 550",
+"price": 550,
+"speed":"до 100 мбит/сек",
+"text":"Объем включенного трафика не ограничен",
+"color":"redClass",
+"colorLite":"redLite"
+},
+{
+"id":4,
+"name":"Безлимитный 1000",
+"price": 1000,
+"speed":"до 200 мбит/сек",
+"text":"Объем включенного трафика не ограничен",
+"color":"blackClass",
+"colorLite":"blackLite"
+}
+]
